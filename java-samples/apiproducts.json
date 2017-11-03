@@ -1,0 +1,35 @@
+[
+{
+  "approvalType": "auto",
+  "displayName": "sample_product1",
+  "environments": [
+    "test"
+  ],
+  "name": "sample_product1",
+   "proxies": [
+    "MockTargetAPI"
+  ]	
+},
+{
+  "approvalType": "auto",
+  "displayName": "sample_product2",
+  "environments": [
+    "test"
+  ],
+  "name": "sample_product2",
+   "proxies": [
+    "MockTargetAPI"
+  ]	
+},
+{
+  "approvalType": "auto",
+  "displayName": "sample_product3",
+  "environments": [
+    "test"
+  ],
+  "name": "sample_product3",
+   "proxies": [
+    "MockTargetAPI"
+  ]	
+}
+]
